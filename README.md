@@ -19,6 +19,7 @@ This repository contains offline documentation archives for various Python libra
 | Scipy | 1.17.0        |
 | PyTorch | 2.1.0        |
 | Pandas | 3.0.2        |
+| NetworkX | 3.6.1        |
 
 ## Notes
 
